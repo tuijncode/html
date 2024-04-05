@@ -4,6 +4,11 @@
 <a href="https://packagist.org/packages/tuijncode/html"><img src="https://poser.pugx.org/tuijncode/html/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/tuijncode/html"><img src="https://poser.pugx.org/tuijncode/html/license.svg" alt="License"></a>
 
+| Laravel | Version |
+| --- | --- |
+| 11  | 2.0.1 |
+| 10 | 1.0 |
+
 ## Install
 
 ```
