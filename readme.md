@@ -9,7 +9,7 @@
 | 11  | v2.0.1 |
 | 10 | v1.0 |
 
-## Install
+## Installation
 
 ```
 composer require tuijncode/html
