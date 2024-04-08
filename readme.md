@@ -4,6 +4,8 @@
 <a href="https://packagist.org/packages/tuijncode/html"><img src="https://poser.pugx.org/tuijncode/html/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/tuijncode/html"><img src="https://poser.pugx.org/tuijncode/html/license.svg" alt="License"></a>
 
+ Thank you, **The Laravel Collective**, for creating the original ![package](https://github.com/LaravelCollective/html).
+ 
 | Laravel | Version |
 | --- | --- |
 | 11  | v2.0.1 |
